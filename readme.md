@@ -26,4 +26,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 A DunkStore é um loja de tenis online.
 
-- [Acesse o projeto finalizado, online](https://pablogomesz.github.io/socialinks/)
+- [Acesse o projeto finalizado, online](https://pablogomesz.github.io/loja-store/)
