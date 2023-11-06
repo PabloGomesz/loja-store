@@ -11,7 +11,7 @@ Programa desenvolvido por PabloGomesz para matéria de interface humana de compu
 <br>
 
 <p align="center">
-  <img alt="projeto DunkStore" src="/img/imagemProjeto.PNG" width="100%">
+  <img alt="projeto DunkStore" src="/img/paginaSite.PNG" width="100%">
 </p>
 
 ## 🚀 Tecnologias
